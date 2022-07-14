@@ -1,0 +1,128 @@
+  
+  /*  background-image: url(https://tinyhorse.com/wp-content/uploads/2019/04/tiny-horse-marketing-agency-header.jpg);
+    */
+.navbar-brand   {
+    color: white;
+    padding-left: 200px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-variant: small-caps;
+       
+}
+
+.navbar-brand:hover {
+    color: orangered;
+}
+ul  {
+    margin-right: 100px;
+}
+.nav-link   {
+    color: white;
+    font-variant: small-caps;
+   
+}
+.nav-link:hover {
+    color: orangered;
+}
+.container-fluid    {
+    background-color:currentColor;
+    margin-top:-10px;
+    margin-block-end: -20px;
+    border: none;
+}
+.nav-link   {
+    text-decoration: none;
+}
+body    {
+    padding-top: 100px;
+    background-image: url(https://tinyhorse.com/wp-content/uploads/2019/04/tiny-horse-marketing-agency-header.jpg);
+    background-position:center;
+    height: 1200px;
+    background-repeat: no-repeat;
+    
+    
+}
+h1{
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+    justify-items: left;
+    padding-left: 285px;
+    padding-top: 250px;
+    padding-right: 650px;
+    font-size: 50pt;
+    border-color: white;
+    padding-bottom: 40px;
+    display: flex;
+    line-height: 80pt;
+}
+
+.dropdown-menu  {
+    background-color: currentColor;
+  
+}
+
+.dropdown-item  {
+    color: white;
+    font-variant: small-caps;
+}
+.dropdown-item:hover    {
+    color: orangered;
+}
+#brandBanner  {
+    background-image: url("https://sp-ao.shortpixel.ai/client/q_lossy,ret_img/https://tinyhorse.com/wp-content/uploads/2019/04/Tiny-Horse-Agency-Gradient.jpg");
+    margin-top: 250px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 0;
+    height: 200px;
+    display: flex;
+    padding-left: 90px;
+  
+    
+}
+#purposeDiv  {
+    background-color:#f4eae9;
+    padding-top: 50px;
+  
+    
+}
+h2  {
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 400px;
+    margin-right: 400px;
+    text-align: center;
+    padding-top: 0;
+}
+.buttonDiv    {
+    background-color:#f4eae9;
+    padding-bottom: 30px;
+    padding-top: 40px;
+    
+    
+}
+.button1  {
+  color: black;
+  border-style:solid;
+  text-decoration: none;
+  font-size: 25pt;
+  font-family: 'Times New Roman', Times, serif;
+  margin-left:100px;
+  padding: 20pt;
+  padding-left: 70px;
+  padding-right: 70px;
+     
+}
+.button1:hover  {
+    color: black;
+}
+li  {
+    list-style:none;
+    display: inline;  
+   
+}
+ul  {
+    text-align: center;
+ 
+}
+
+
