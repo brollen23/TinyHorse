@@ -1,6 +1,9 @@
-  
-  /*  background-image: url(https://tinyhorse.com/wp-content/uploads/2019/04/tiny-horse-marketing-agency-header.jpg);
-    */
+<!--This stylesheet by RaeDean Fullerton-->
+
+#logo {
+    padding-left: 300px;
+}
+   
 .navbar-brand   {
     color: white;
     padding-left: 200px;
@@ -22,7 +25,9 @@ ul  {
    
 }
 .nav-link:hover {
-    color: orangered;
+    color: white;
+    text-decoration: underline;
+    text-decoration-color: orangered;
 }
 .container-fluid    {
     background-color:currentColor;
@@ -34,6 +39,7 @@ ul  {
     text-decoration: none;
 }
 body    {
+    ;
     padding-top: 100px;
     background-image: url(https://tinyhorse.com/wp-content/uploads/2019/04/tiny-horse-marketing-agency-header.jpg);
     background-position:center;
@@ -41,8 +47,7 @@ body    {
     background-repeat: no-repeat;
     
     
-}
-h1{
+}h1{
     font-family:'Times New Roman', Times, serif;
     color: white;
     justify-items: left;
@@ -125,4 +130,101 @@ ul  {
  
 }
 
+#buttonCaption  {
+    background-color: #f4eae9;
+    padding-left: 250px;
+    padding-bottom: 80px;
+}
+.caption1    {
+    display: inline;
+    text-align: center;
+    margin-right: 20px;
+    margin-left: 130px;
+    font-size: 10pt;
+  
+    
+}
+.caption2   {
+    display: inline;
+    text-align: center;
+    font-size: 10pt;
+    margin-left: 20px;
+  
+}
+.caption3   {
+    display: inline;
+    text-align: center;
+    margin-right: 40px;
+    font-size: 10pt;
+    padding-left: 80px;
+    
+}
+#reviewsDiv {
+    background-color: white;
+    padding-top: 50px;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-bottom: 200px;
+}
+.col    {
+    font-size: 20pt;
+    text-align: left
+    margin: 40px;
+    line-height: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    height: 380px;
+    padding-bottom: 80px;
+}
+#contact {
+    padding-bottom: 100px;
+    padding-top: 50px;
+    font-size: 32pt;
+    color: white;
+    background-image: url("https://sp-ao.shortpixel.ai/client/q_lossy,ret_img/https://tinyhorse.com/wp-content/uploads/2019/04/Tiny-Horse-Marketing-Agency-Contact.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-left: 320px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+p {
+    font-size: 10pt;
+    padding-left: 
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 50px
+}
+.name1 {
+    padding-top: 200px;
+    text-align: left;
+    line-height: 20px;
+    font-size: 15pt;
+}
+
+.name2 {
+    padding-top: 150px;
+    line-height:20px ;
+    font-size: 15pt;
+
+}
+.name3  {
+    padding-top: 50px;
+    line-height: 20px;
+    font-size:15pt;
+}
+#footeraddress    {
+    color: white;
+    font-variant: small-caps;
+    line-height: 90px;
+    font-size: 12pt;
+}
+#footerlocations    {
+    color: white;
+    font-variant: small-caps;
+    font-size: 12pt;
+    line-height: 90px;
+}
 
