@@ -1,9 +1,7 @@
 <!--This stylesheet by RaeDean Fullerton-->
 
-#logo {
-    padding-left: 300px;
-}
-   
+
+ 
 .navbar-brand   {
     color: white;
     padding-left: 200px;
@@ -34,6 +32,9 @@ ul  {
     margin-top:-10px;
     margin-block-end: -20px;
     border: none;
+    padding-left: 350px;
+    
+    
 }
 .nav-link   {
     text-decoration: none;
