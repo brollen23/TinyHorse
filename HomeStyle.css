@@ -89,6 +89,9 @@ body    {
 #purposeDiv  {
     background-color:#f4eae9;
     padding-top: 50px;
+    padding-right: 00px;
+    padding-left: 0;
+    
   
     
 }
@@ -227,5 +230,8 @@ p {
     font-variant: small-caps;
     font-size: 12pt;
     line-height: 90px;
+}
+#footer {
+    padding-left: 0;
 }
 
